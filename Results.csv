@@ -1,0 +1,198 @@
+Country,BiasScore_1to10,FairnessCategory
+Afghanistan,5.43,Moderate Fairness
+Albania,6.78,Moderate Fairness
+Algeria,6.15,Moderate Fairness
+Andorra,7.77,Moderate Fairness
+Angola,3.43,Low Fairness
+Anguilla,8.20,High Fairness
+Antigua and Barbuda,7.53,Moderate Fairness
+Argentina,6.15,Moderate Fairness
+Armenia,9.20,High Fairness
+Aruba,9.23,High Fairness
+Australia,9.42,High Fairness
+Austria,7.56,Moderate Fairness
+Azerbaijan,6.54,Moderate Fairness
+Bahamas,6.50,Moderate Fairness
+Bahrain,7.76,Moderate Fairness
+Bangladesh,5.23,Moderate Fairness
+Barbados,5.55,Moderate Fairness
+Belarus,8.21,High Fairness
+Belgium,8.31,High Fairness
+Belize,8.03,High Fairness
+Benin,7.15,Moderate Fairness
+Bermuda,5.67,Moderate Fairness
+Bhutan,6.05,Moderate Fairness
+Bolivia,3.94,Low Fairness
+Bosnia,5.38,Moderate Fairness
+Botswana,5.13,Moderate Fairness
+Brazil,8.19,High Fairness
+British Virgin Islands,7.78,Moderate Fairness
+Brunei,7.88,Moderate Fairness
+Bulgaria,6.58,Moderate Fairness
+Burkina Faso,1.81,Low Fairness
+Burundi,3.43,Low Fairness
+Cabo Verde,3.22,Low Fairness
+Cambodia,3.50,Low Fairness
+Cameroon,3.67,Low Fairness
+Canada,2.19,Low Fairness
+Cayman Islands,7.95,Moderate Fairness
+Chad,1.82,Low Fairness
+Channel Islands,1.82,Low Fairness
+Chile,4.88,Low Fairness
+China,7.94,Moderate Fairness
+Colombia,5.66,Moderate Fairness
+Comoros,2.96,Low Fairness
+Costa Rica,7.26,Moderate Fairness
+Croatia,8.03,High Fairness
+Cuba,5.53,Moderate Fairness
+Curacao,5.32,Moderate Fairness
+Cyprus,5.09,Moderate Fairness
+Czechia,8.17,High Fairness
+DR Congo,8.06,High Fairness
+Democratic Republic of Congo,3.27,Low Fairness
+Denmark,7.82,Moderate Fairness
+Dominica,7.90,Moderate Fairness
+Dominican Republic,5.59,Moderate Fairness
+Ecuador,6.11,Moderate Fairness
+Egypt,6.88,Moderate Fairness
+El Salvador,7.79,Moderate Fairness
+Eritrea,7.09,Moderate Fairness
+Estonia,8.15,High Fairness
+Eswatini,6.69,Moderate Fairness
+Ethiopia,6.48,Moderate Fairness
+Faroe Islands,7.93,Moderate Fairness
+Fiji,8.67,High Fairness
+Finland,8.38,High Fairness
+France,6.57,Moderate Fairness
+Gabon,7.77,Moderate Fairness
+Gambia,7.79,Moderate Fairness
+Georgia,8.86,High Fairness
+Germany,7.73,Moderate Fairness
+Ghana,7.31,Moderate Fairness
+Gibraltar,6.69,Moderate Fairness
+Greece,8.66,High Fairness
+Greenland,8.66,High Fairness
+Grenada,9.18,High Fairness
+Guam,9.44,High Fairness
+Guatemala,5.13,Moderate Fairness
+Guinea,2.89,Low Fairness
+Guyana,4.10,Low Fairness
+Haiti,3.58,Low Fairness
+Honduras,5.48,Moderate Fairness
+Hong Kong,9.16,High Fairness
+Hungary,8.09,High Fairness
+Iceland,6.37,Moderate Fairness
+India,4.91,Low Fairness
+Indonesia,6.91,Moderate Fairness
+Iran,3.39,Low Fairness
+Iraq,2.80,Low Fairness
+Ireland,3.11,Low Fairness
+Italy,7.21,Moderate Fairness
+Ivory Coast,7.17,Moderate Fairness
+Jamaica,7.42,Moderate Fairness
+Japan,6.85,Moderate Fairness
+Jordan,5.41,Moderate Fairness
+Kazakhstan,4.47,Low Fairness
+Kenya,4.26,Low Fairness
+Kiribati,3.86,Low Fairness
+Kosovo,3.38,Low Fairness
+Kuwait,7.29,Moderate Fairness
+Kyrgyz Republic,8.22,High Fairness
+Kyrgyzstan,5.86,Moderate Fairness
+Laos,4.30,Low Fairness
+Latvia,8.20,High Fairness
+Lebanon,7.39,Moderate Fairness
+Liberia,6.31,Moderate Fairness
+Libya,6.08,Moderate Fairness
+Liechtenstein,4.95,Low Fairness
+Lithuania,8.00,Moderate Fairness
+Luxembourg,6.93,Moderate Fairness
+Macao,6.93,Moderate Fairness
+Macau,8.16,High Fairness
+Madagascar,3.33,Low Fairness
+Malawi,4.04,Low Fairness
+Malaysia,7.90,Moderate Fairness
+Maldives,7.96,Moderate Fairness
+Mali,6.18,Moderate Fairness
+Malta,7.59,Moderate Fairness
+Marshall Islands,3.23,Low Fairness
+Mauritania,2.06,Low Fairness
+Mauritius,7.83,Moderate Fairness
+Mexico,4.94,Low Fairness
+Micronesia,5.25,Moderate Fairness
+Moldova,8.09,High Fairness
+Monaco,7.69,Moderate Fairness
+Mongolia,7.25,Moderate Fairness
+Montenegro,8.56,High Fairness
+Montserrat,10.00,High Fairness
+Morocco,7.23,Moderate Fairness
+Mozambique,8.51,High Fairness
+Myanmar,4.49,Low Fairness
+Namibia,7.14,Moderate Fairness
+Nauru,5.73,Moderate Fairness
+Nepal,3.76,Low Fairness
+Netherlands,6.28,Moderate Fairness
+New Caledonia,8.05,High Fairness
+New Zealand,7.79,Moderate Fairness
+Nicaragua,3.30,Low Fairness
+Niger,1.00,Low Fairness
+Nigeria,2.58,Low Fairness
+Niue,7.39,Moderate Fairness
+North Macedonia,9.72,High Fairness
+Norway,7.41,Moderate Fairness
+Oman,7.50,Moderate Fairness
+Pakistan,7.19,Moderate Fairness
+Palau,7.92,Moderate Fairness
+Palestine,7.84,Moderate Fairness
+Panama,5.43,Moderate Fairness
+Papua New Guinea,5.54,Moderate Fairness
+Paraguay,4.37,Low Fairness
+Peru,5.25,Moderate Fairness
+Philippines,5.33,Moderate Fairness
+Poland,8.12,High Fairness
+Portugal,8.20,High Fairness
+Puerto Rico,8.08,High Fairness
+Qatar,8.33,High Fairness
+Romania,8.60,High Fairness
+Russia,8.64,High Fairness
+Rwanda,6.04,Moderate Fairness
+Saint Lucia,9.32,High Fairness
+Samoa,6.82,Moderate Fairness
+San Marino,7.36,Moderate Fairness
+Saudi Arabia,7.69,Moderate Fairness
+Senegal,2.90,Low Fairness
+Serbia,5.58,Moderate Fairness
+Singapore,9.07,High Fairness
+Slovak Republic,9.21,High Fairness
+Slovenia,8.10,High Fairness
+Solomon Islands,2.90,Low Fairness
+Somalia,2.29,Low Fairness
+South Africa,3.75,Low Fairness
+South Sudan,5.96,Moderate Fairness
+Spain,9.12,High Fairness
+Sudan,5.01,Moderate Fairness
+Sweden,8.20,High Fairness
+Switzerland,7.28,Moderate Fairness
+Syria,2.76,Low Fairness
+Tajikistan,3.92,Low Fairness
+Tanzania,4.11,Low Fairness
+Thailand,7.56,Moderate Fairness
+Trinidad and Tobago,3.43,Low Fairness
+Tunisia,6.59,Moderate Fairness
+Turkey,7.35,Moderate Fairness
+Turkiye,8.28,High Fairness
+Uganda,8.16,High Fairness
+Ukraine,8.28,High Fairness
+United Arab Emirates,8.71,High Fairness
+United Kingdom,8.21,High Fairness
+United States,8.03,High Fairness
+Uruguay,7.84,Moderate Fairness
+Uzbekistan,8.21,High Fairness
+Vanuatu,8.11,High Fairness
+Venezuela,8.52,High Fairness
+Vietnam,7.63,Moderate Fairness
+Virgin Islands (U.S.),7.33,Moderate Fairness
+West Bank and Gaza,7.92,Moderate Fairness
+Yemen,5.21,Moderate Fairness
+Zambia,3.87,Low Fairness
+Zimbabwe,4.89,Low Fairness
